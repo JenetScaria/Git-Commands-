@@ -1,0 +1,6 @@
+Test file
+
+Renaming
+branching
+merging
+switching branches
